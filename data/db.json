@@ -23,6 +23,18 @@
       "body": "Some body",
       "author": "Mario",
       "id": 4
+    },
+    {
+      "title": "Title",
+      "body": "Body",
+      "author": "Mario",
+      "id": 5
+    },
+    {
+      "title": "Title 2",
+      "body": "Body 2",
+      "author": "luigi",
+      "id": 6
     }
   ]
 }
